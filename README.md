@@ -1,4 +1,4 @@
 # Unity3D
--Alguns jogos desenvolvidos na Unity 3D enquanto estava na faculdade (Fatec) (Branch Fatec)
+-Jogos desenvolvidos utilizando Unity 3D 
 
--(Branch Pessoal) Jogos desenvolvidos para estudo
+
