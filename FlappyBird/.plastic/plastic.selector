@@ -1,0 +1,4 @@
+repository "FlappyBird@camiladasilvaassis1@cloud"
+  path "/"
+    smartbranch "/main"     
+     
