@@ -43,6 +43,6 @@ public class ShowPanelsController : MonoBehaviour
     }
 
     public void ExitGame(){
-      
+      Application.Quit();
     }
 }
